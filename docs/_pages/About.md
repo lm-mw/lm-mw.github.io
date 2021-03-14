@@ -1,4 +1,5 @@
 ---
+Layout: About
 permalink: /About/
 title: "About"
 excerpt: ""
