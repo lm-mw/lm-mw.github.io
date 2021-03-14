@@ -97,7 +97,7 @@ author:
   name             : "LMW"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The amazing person you always knew existed."
-  location         : "USA"
+  location         : "Colorado"
   email            :
   links:
     - label: "Email"
@@ -114,10 +114,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/lm-mw"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/loganmorrowwright/"
 
 # Site Footer
 footer:
