@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "About Me"
-    url: "lm-mw.github.io/About"
+    url: "https://lm-mw.github.io/About"
   - title: "Get In Touch"
     url: "/Contact/"
   - title: "Projects"
