@@ -2,7 +2,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Updates"
+   title: "Updates"
     url: /Updates/
-  -title: "Contact"
+  title: "Contact"
     url: /Contact/
