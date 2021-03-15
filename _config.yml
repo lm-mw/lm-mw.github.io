@@ -96,7 +96,7 @@ analytics:
 author:
   name             : "Logan Morrow-Wright"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The amazing person you always knew existed."
+  bio              :
   location         : "Colorado"
   email            :
   links:
