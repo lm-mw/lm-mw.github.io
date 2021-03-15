@@ -5,6 +5,6 @@ main:
   - title: "Get In Touch"
     url: "/Contact/"
   - title: "Projects"
-    url: "/portfolio-archive/"
+    url: "/Projects/"
   - title: "Blog"
     url: "/Blog/"
