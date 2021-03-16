@@ -1,6 +1,6 @@
 ---
-title: "Posts by Year"
+title: "Get In Touch"
 permalink: /Contact/
-layout: posts
-author_profile: true
+layout: archive0
+author_profile: false
 ---
