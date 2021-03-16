@@ -13,7 +13,7 @@ Please contact me <a href="mailto:logan.m.wright1@gmail.com">here</a> with the d
 your request.
 
 ## For Personal Inquiries
-Please contact me <a href="mailto:logan.m.wright1@gmail.com">here</a>.
+Please contact me <a href="mailto:lw149209@ohio.edu">here</a>.
 
 ## Follow me
 <li>
