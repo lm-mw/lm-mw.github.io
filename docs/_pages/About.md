@@ -5,15 +5,20 @@ title: "About"
 excerpt: ""
 ---
 <Center>
-<h1> Summary </h1>
+<h1><u> Summary </u></h1>
 <BR>
 <BR>
-<h1> Professional Work Experience </h1>
-AmTrust Financial Services, Inc.
+<h1><u>Professional Work Experience</u></h1>
+<h2>AmTrust Financial Services, Inc.</h2>
+<ul>
+<Li>Director of Specialty Risk Data Implementations</li>
+<li style="margin-left:2em">Responsible for the data onboarding of Third Party Administrators</li>
+</ul>
 <BR>
-Fenetech, Inc.
+<h3>Fenetech, Inc.</h3>
 <BR>
-<h1> Other Work Experience (We all had to start somewhere!) </h1>
+<h1><u>Other Work Experience</u></h1>
+<h1><u>(We all had to start somewhere!)</u></h1>
 Café Bibliotech
 <BR>
 Ohio University Residential Services
