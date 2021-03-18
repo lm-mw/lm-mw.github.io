@@ -4,13 +4,10 @@ permalink: /About/
 title: "About"
 excerpt: ""
 ---
-<Center>
 <h1><u> Summary </u></h1>
-<BR>
 <BR>
 <h1><u>Professional Work Experience</u></h1>
 <h2>AmTrust Financial Services, Inc.</h2>
-<ul>
 <Li>Director of Specialty Risk Data Implementations</li>
 <li style="margin-left:2em">Responsible for the data onboarding of Third Party Administrators</li>
 </ul>
@@ -46,4 +43,3 @@ Google Analytics
 
 <BR>
 <h1> Personal Interests </h1>
-</Center>
