@@ -10,7 +10,7 @@ excerpt: ""
 <h2>AmTrust Financial Services, Inc.</h2>
 <Li>Director of Specialty Risk Data Implementations | November 2020 - Present</li>
 <li style="margin-left:2em">Accelerate the integration of premium and claim data feeds from third party administrators (TPAs) for specialty risk insurance and warranty products underwritten by AmTrust</li>
-<li style="margin-left:2em">Incorporate process engineering and technology including SAS, SQL and PowerBI to define and execute the departmental best practices pertaining to the validation of external data and downstream reporting functionality for business users<li>
+<li style="margin-left:2em">Incorporate process engineering and technology including SAS, SQL and PowerBI to define and execute the departmental best practices pertaining to the validation of external data and downstream reporting functionality for business users</li>
 <li style="margin-left:2em">Foster data governance with Finance, Underwriting, Actuarial, Compliance, and Account Management departments</li>
 <li style="margin-left:2em">Streamline the automation of labor-intensive tasks such as general ledger entries</li>
 <Li>Technical Operations Manager III | June 2018 - November 2020</li>
