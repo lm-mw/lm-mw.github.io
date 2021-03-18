@@ -27,7 +27,7 @@ documented in technical specifications for AmTrust software engineers
 <BR>
 <h1><u>Other Work Experience - We all had to start somewhere!</u></h1>
 <h2>Ohio University Residential and Dining Services</h2>
-<li>Ohio University Resident Assistant | 2012</li>
+<li>Ohio University Resident Assistant | 2011</li>
 <li style="margin-left:2em">My basic duties as an RA were to oversee a floor of an OU residence hall comprised of approximately 20 students and provide guidance on any issues</LI>
 <li style="margin-left:2em">I also collaborated with my RA peers to create and promote community activities that I would personally consider much cooler than some of the other functions offered to students.</LI>
 <Li>Café Bibliotech Barista Extraordinaire | 2012 - 2013</LI>
