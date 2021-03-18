@@ -16,8 +16,8 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Logan Morrow-Wright"
 description              : "Welcome to the personal site of Logan Morrow-Wright;  "
