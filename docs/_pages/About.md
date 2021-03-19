@@ -8,7 +8,7 @@ excerpt: ""
 <BR>
 <h1><u>Professional Work Experience</u></h1>
 <h2>AmTrust Financial Services, Inc.</h2>
-<Li>Director of Specialty Risk Data Implementations | November 2020 - Present</li>
+<li>Director of Specialty Risk Data Implementations | November 2020 - Present</li>
 <li style="margin-left:2em">Accelerate the integration of premium and claim data feeds from third party administrators (TPAs) for specialty risk insurance and warranty products underwritten by AmTrust</li>
 <li style="margin-left:2em">Incorporate process engineering and technology including SAS, SQL and PowerBI to define and execute the departmental best practices pertaining to the validation of external data and    downstream reporting functionality for business users</li>
 <li style="margin-left:2em">Foster data governance with Finance, Underwriting, Actuarial, Compliance, and Account Management departments</li>
@@ -17,8 +17,8 @@ excerpt: ""
 <li style="margin-left:2em">Orchestrate data translation for all internal AmTrust Specialty Risk departments</li>
 <li style="margin-left:2em">Build and maintain technical relationships with external business partners & vendors</li>
 <Li>Business Systems Analyst | June 2015 - June 2018</li>
-<li style="margin-left:2em">Solicit requirements from stakeholders and SMEs to ensure all pertinent business rules are</li>
-documented in technical specifications for AmTrust software engineers
+<li style="margin-left:2em">Solicit requirements from stakeholders and SMEs to ensure all pertinent business rules are
+documented in technical specifications for AmTrust software engineers</li>
 <li style="margin-left:2em">Improve the monitoring and maintenance (via VSTS user stories) of 100+ EDI data feeds</li>
 <h2>Fenetech, Inc.</h2>
 <Li>Application Analyst | May 2013 - June 2015</li>
