@@ -46,7 +46,7 @@ documented in technical specifications for AmTrust software engineers
 <h2>Google Analytics</h2>
 <li>I currently hold Beginner and Advanced certifications offered by Google</li>
 <BR>
-<h1>Skills</h1>
+<h1><u>Skills</u></h1>
 <ul>
 <li>Proficient in SAS, SQL, PowerBI/Tableau, VB, HTML, CSS, Google Analytics and all Microsoft Office Products</li>
 <li>Ability to manage complex information system projects that deliver solutions within budget</li>
@@ -54,7 +54,7 @@ documented in technical specifications for AmTrust software engineers
 <li>Effective communication skills that allow for robust requirements gathering and product development</li>
 </ul>
 <BR>
-<h1> Personal Interests </h1>
+<h1><u> Personal Interests <u></h1>
 <ul>
 <li>As my homepage alluded, one of my greatest joys is going on hikes throughout the country with my wife and our dogs</li>
 <li>In recent years I have gotten into gardening.  While I am still learning the tricks of the trade, I have come a long way from the person whose plant would die within the first week.</li>
