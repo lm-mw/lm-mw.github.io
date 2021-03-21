@@ -57,8 +57,7 @@ documented in technical specifications for AmTrust software engineers</li>
 </ul>
 <h2>Google Analytics</h2>
 <ul>
-<li>I currently hold Beginner and Advanced certifications offered by Google</li>
-</ul>
+<li>I currently hold Beginner and Advanced certifications offered by Google</li></ul>
 <BR>
 <h1><u>Skills</u></h1>
 <ul>
