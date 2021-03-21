@@ -49,7 +49,7 @@ documented in technical specifications for AmTrust software engineers</li>
 <h1><u>Education and Certifications</u></h1>
 <h2>Ohio University College Of Business</h2>
 <ul>
-<li><i><Bachelor of Business Administration</i></li>
+<li><i>Bachelor of Business Administration</i></li>
 <li style="margin-left:2em">Double Major in Management Information Systems and Business Economics</li>
 <li style="margin-left:2em">Diploma Received May 2013</li>
 </ul>
