@@ -3,6 +3,7 @@ Layout: AboutMe
 permalink: /About/
 title: "About"
 excerpt: ""
+author_profile: false
 ---
 <h1><u> Summary </u></h1>
 <BR>
