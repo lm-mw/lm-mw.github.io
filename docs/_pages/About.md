@@ -9,7 +9,7 @@ author_profile: false
 <head>
 <style>
 .myDiv {
-  margin-left: 30%;
+  margin-left: 10%;
   text-align: left;
 }
 </style>
