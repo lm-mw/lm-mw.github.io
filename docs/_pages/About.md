@@ -10,6 +10,7 @@ author_profile: false
 <style>
 .myDiv {
   margin-left: 10%;
+  margin-right: 10%;
   text-align: left;
 }
 </style>
