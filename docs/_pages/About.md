@@ -1,5 +1,5 @@
 ---
-Layout: archive00
+Layout: archive
 permalink: /About/
 title: "About"
 excerpt: ""
