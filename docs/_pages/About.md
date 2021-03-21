@@ -5,6 +5,7 @@ title: "About"
 excerpt: ""
 author_profile: false
 ---
+<center>
 <h1><u> Summary </u></h1>
 <BR>
 <h1><u>Professional Work Experience</u></h1>
@@ -57,6 +58,7 @@ documented in technical specifications for AmTrust software engineers</li>
 <ul>
 <li>I currently hold Beginner and Advanced certifications offered by Google</li>
 </ul>
+<BR>
 <h1><u>Skills</u></h1>
 <ul>
 <li>Proficient in SAS, SQL, PowerBI/Tableau, VB, HTML, CSS, Google Analytics and all Microsoft Office Products</li>
@@ -70,3 +72,4 @@ documented in technical specifications for AmTrust software engineers</li>
 <li>In recent years I have gotten into gardening.  While I am still learning the tricks of the trade, I have come a long way from the person whose plant would die within the first week.</li>
 <li>I greatly enjoy finance and economics in all capacities, from macroeconomic trends to personal investment strategies</li>
 </ul>
+</center>
