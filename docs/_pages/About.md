@@ -4,8 +4,9 @@ permalink: /About/
 title: "About"
 excerpt: ""
 author_profile: false
+margin left: 25%
 ---
-<center>
+
 <h1><u> Summary </u></h1>
 <BR>
 <h1><u>Professional Work Experience</u></h1>
@@ -72,4 +73,3 @@ documented in technical specifications for AmTrust software engineers</li>
 <li>In recent years I have gotten into gardening.  While I am still learning the tricks of the trade, I have come a long way from the person whose plant would die within the first week.</li>
 <li>I greatly enjoy finance and economics in all capacities, from macroeconomic trends to personal investment strategies</li>
 </ul>
-</center>
