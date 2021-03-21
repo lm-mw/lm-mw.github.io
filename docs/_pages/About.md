@@ -4,8 +4,18 @@ permalink: /About/
 title: "About"
 excerpt: ""
 author_profile: false
-margin left: 25%
 ---
+
+<head>
+<style>
+.myDiv {
+  margin-left: 30%;
+  text-align: left;
+}
+</style>
+</head>
+
+<div class="myDiv">
 
 <h1><u> Summary </u></h1>
 <BR>
@@ -72,3 +82,4 @@ documented in technical specifications for AmTrust software engineers</li>
 <li>In recent years I have gotten into gardening.  While I am still learning the tricks of the trade, I have come a long way from the person whose plant would die within the first week.</li>
 <li>I greatly enjoy finance and economics in all capacities, from macroeconomic trends to personal investment strategies</li>
 </ul>
+</div>
