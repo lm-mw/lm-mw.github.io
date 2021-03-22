@@ -3,7 +3,7 @@ layout: archive0
 ---
 
 {{ content }}
-
+<B>Posts By Year</B>
 <ul class="taxonomy__index">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
@@ -25,6 +25,6 @@ layout: archive0
         {% include archive-single.html type=entries_layout %}
       {% endfor %}
     </div>
-    <a href="#page-title" class="back-to-top" align="left">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+    <LEFT><a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a></LEFT>
   </section>
 {% endfor %}
