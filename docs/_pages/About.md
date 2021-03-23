@@ -9,8 +9,8 @@ author_profile: false
 <head>
 <style>
 .myDiv {
-  margin-left: 15%;
-  margin-right: 21%;
+  margin-left: 17%;
+  margin-right: 23%;
   text-align: left;
 }
 </style>
@@ -18,8 +18,11 @@ author_profile: false
 
 <div class="myDiv">
 <B><u> Summary </u></B>
+<p>Since graduating from Ohio University in 2013 with a BBA focused in Management of Information Systems and Business Economics I have worked with organizations to understand their business practices and build cost-efficient, technology driven solutions that help them achieve their goals.  Though technological advances continue to open up new doors for improvement, the applications we interact with are only a portion of what goes into building and maintaining a successful organization in today's world.  In order to thrive, all components of an information system - People, Processes and Technology - must be in harmony with one another.  Using my skillset and years of hands-on project experience in multiple industries I can help your organization, large or small, achieve that harmony.</P>
+<P>Below is an overview of my experience and interest, however you are more than welcome to contact me with any specific questions you have about my background.</P>
 <BR>
-<B><u>Professional Work Experience</u></B>
+<H3><u>Professional Work Experience</u></H3>
+<BR>
 <B>AmTrust Financial Services, Inc.</B>
 <ul>
 <li><i>Director of Specialty Risk Data Implementations | November 2020 - Present</i></li>
