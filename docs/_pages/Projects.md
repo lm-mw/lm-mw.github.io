@@ -9,7 +9,7 @@ classes: wide
 <head>
 <style>
 .myDiv {
-  margin-left: 17%;
+  margin-left: 0%;
   margin-right: 23%;
   text-align: left;
 }
