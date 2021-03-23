@@ -9,8 +9,8 @@ author_profile: false
 <head>
 <style>
 .myDiv {
-  margin-left: 17%;
-  margin-right: 23%;
+  margin-left: 20%;
+  margin-right: 25%;
   text-align: left;
 }
 </style>
