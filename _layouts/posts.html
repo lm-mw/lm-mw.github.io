@@ -4,7 +4,7 @@ layout: archive0
 <center>
 {{ content }}
 <B>Posts By Year</B>
-<ul class="taxonomy__index">
+<ul class="taxonomy__index" text-align="center">
   {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
   {% for year in postsInYear %}
     <li>
