@@ -7,9 +7,7 @@ layout: archive0
 {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsInYear %}
 <a href="#{{ year.name }}">
-<ul style = "list-style: none;margin: 0;padding: 0;">
-<li><strong>{{ year.name }}</strong></li>
-</ul>
+<strong>{{ year.name }}</strong>
 </a>
 {% endfor %}
 {% assign entries_layout = page.entries_layout | default: 'list' %}
@@ -22,7 +20,6 @@ layout: archive0
         {% include archive-single.html type=entries_layout %}
       {% endfor %}
     </div>
-  <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
   </section>
 {% endfor %}
 </Center>
