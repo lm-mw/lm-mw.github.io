@@ -59,6 +59,7 @@ documented in technical specifications for AmTrust software engineers</li>
 <li><i>Software Sales Intern</i></li>
 <li style="margin-left:2em">Educated myself on the services and hardware offered by Reynolds and Reynolds to automotive clients</LI>
 <li style="margin-left:2em">Reviewed existing client purchase agreements and contacted their stakeholders to upsell complimentary products</LI>
+</ul>
 <B>Jet's Pizza</B>
 <ul>
 <li><i>Very Good Pizza Maker</i></li>
