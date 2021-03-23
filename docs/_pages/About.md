@@ -17,10 +17,9 @@ author_profile: false
 </head>
 
 <div class="myDiv">
-<B><u> Summary </u></B>
+<H3><u> Summary </u></H3>
 <p>Since graduating from Ohio University in 2013 with a BBA focused in Management of Information Systems and Business Economics I have worked with organizations to understand their business practices and build cost-efficient, technology driven solutions that help them achieve their goals.  Though technological advances continue to open up new doors for improvement, the applications we interact with are only a portion of what goes into building and maintaining a successful organization in today's world.  In order to thrive, all components of an information system - People, Processes and Technology - must be in harmony with one another.  Using my skillset and years of hands-on project experience in multiple industries I can help your organization, large or small, achieve that harmony.</P>
 <P>Below is an overview of my experience and interest, however you are more than welcome to contact me with any specific questions you have about my background.</P>
-<BR>
 <H3><u>Professional Work Experience</u></H3>
 <BR>
 <B>AmTrust Financial Services, Inc.</B>
@@ -44,7 +43,8 @@ documented in technical specifications for AmTrust software engineers</li>
 <li style="margin-left:2em">Tailor proprietary ERP software to match the manufacturing needs of glass and window fabricators, optimizing output and labor costs across front and back end departments</li>
 <li style="margin-left:2em">Deliver customized Business Intelligence dashboards to help our clients solve their most difficult problems utilizing the operational data collected throughout the order fulfillment process</li>
 </ul>
-<B><u>Other Work Experience - We all had to start somewhere!</u></B>
+<h3><u>Other Work Experience - We all had to start somewhere!</u></h3>
+<BR>
 <B>Ohio University Residential and Dining Services</B>
 <ul>
 <li><i>Ohio University Resident Assistant</i></li>
@@ -61,7 +61,8 @@ documented in technical specifications for AmTrust software engineers</li>
 <li style="margin-left:2em">I once prepared a pizza with anchovies, feta, black olive and banana pepper.  In my opinion, that combination is one of the worst things you could possibly put on a pizza.</LI>
 </ul>
 <BR>
-<B><u>Education and Certifications</u></B>
+<H3><u>Education and Certifications</u></h3>
+<BR>
 <B>Ohio University College Of Business</B>
 <ul>
 <li><i>Bachelor of Business Administration</i></li>
@@ -72,14 +73,14 @@ documented in technical specifications for AmTrust software engineers</li>
 <ul>
 <li>I currently hold Beginner and Advanced certifications offered by Google</li></ul>
 <BR>
-<B><u>Skills</u></B>
+<h3><u>Skills</u></h3>
 <ul>
 <li>Proficient in SAS, SQL, PowerBI/Tableau, VB, HTML, CSS, Google Analytics and all Microsoft Office Products</li>
 <li>Ability to manage complex information system projects that deliver solutions within budget</li>
 <li>Thorough understanding of the SDLC including various methodologies such as SCRUM/AGILE</li>
 <li>Effective communication skills that allow for robust requirements gathering and product development</li>
 </ul>
-<B><u> Personal Interests </u></B>
+<h3><u> Personal Interests </u></h3>
 <ul>
 <li>As my homepage alluded, one of my greatest joys is going on hikes throughout the country with my wife and our dogs</li>
 <li>In recent years I have gotten into gardening.  While I am still learning the tricks of the trade, I have come a long way from the person whose plant would die within the first week.</li>
