@@ -8,5 +8,5 @@ main:
     url: "/Contact/"
   - title: "Projects"
     url: "/Projects/"
-  - title: "Blog"
+  - title: "Updates and Musings"
     url: "/Blog/"
