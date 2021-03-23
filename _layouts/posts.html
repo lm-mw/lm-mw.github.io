@@ -7,7 +7,7 @@ layout: archive0
 {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsInYear %}
 <a href="#{{ year.name }}">
-<ul style = "list-style: none;">
+<ul style = "list-style: none;margin: 0;padding: 0;">
 <li><strong>{{ year.name }}</strong></li>
 </ul>
 </a>
