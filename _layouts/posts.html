@@ -7,7 +7,7 @@ layout: archive0
 {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
 {% for year in postsInYear %}
 <a href="#{{ year.name }}">
-<strong>{{ year.name }}</strong>
+|<strong>{{ year.name }}</strong>|
 </a>
 {% endfor %}
 {% assign entries_layout = page.entries_layout | default: 'list' %}

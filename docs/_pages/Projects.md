@@ -6,4 +6,4 @@ collection: portfolio
 entries_layout: grid
 classes: wide
 ---
-Sample document listing for the collection `_portfolio`.
+As I complete personal projects, I will add them to this page for your own personal use.
