@@ -30,7 +30,7 @@ Please contact me <a href="mailto:lw149209@ohio.edu">here</a>.
 <BR>
 <BR>
 <B>Follow me:</B>
-<ul style="list-style-type:none;margin:0;padding=0;"
+<ul style="list-style-type:none;margin:0;padding=0;">
 <li>
   <a href="https://instagram.com/loganmorrowwright" itemprop="sameAs" rel="nofollow noopener noreferrer">
     <i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span>
