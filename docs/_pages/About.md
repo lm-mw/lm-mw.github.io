@@ -54,6 +54,11 @@ documented in technical specifications for AmTrust software engineers</li>
 <li style="margin-left:2em">In this role I served a vital need in the college community by preparing assorted coffee beverages for my peers at the café in Alden Library</LI>
 <li style="margin-left:2em">The co-workers here made this a truly enjoyable job; thankful to have had the experience of working here</LI>
 </ul>
+<B>Reynolds and Reynolds</B>
+<ul>
+<li><i>Software Sales Intern</i></li>
+<li style="margin-left:2em">Educated myself on the services and hardware offered by Reynolds and Reynolds to automotive clients</LI>
+<li style="margin-left:2em">Reviewed existing client purchase agreements and contacted their stakeholders to upsell complimentary products</LI>
 <B>Jet's Pizza</B>
 <ul>
 <li><i>Very Good Pizza Maker</i></li>
