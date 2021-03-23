@@ -60,7 +60,6 @@ documented in technical specifications for AmTrust software engineers</li>
 <li style="margin-left:2em">I made some fairly delicious pizza off and on during summer and holiday breaks from college.</LI>
 <li style="margin-left:2em">I once prepared a pizza with anchovies, feta, black olive and banana pepper.  In my opinion, that combination is one of the worst things you could possibly put on a pizza.</LI>
 </ul>
-<BR>
 <H3><u>Education and Certifications</u></h3>
 <BR>
 <B>Ohio University College Of Business</B>
@@ -72,7 +71,6 @@ documented in technical specifications for AmTrust software engineers</li>
 <B>Google Analytics</B>
 <ul>
 <li>I currently hold Beginner and Advanced certifications offered by Google</li></ul>
-<BR>
 <h3><u>Skills</u></h3>
 <ul>
 <li>Proficient in SAS, SQL, PowerBI/Tableau, VB, HTML, CSS, Google Analytics and all Microsoft Office Products</li>
