@@ -4,16 +4,13 @@ layout: archive0
 <center>
 {{ content }}
 <H2><U>Posts By Year</U></H2>
-<ul class="taxonomy__index" justify="center">
-  {% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
-  {% for year in postsInYear %}
-    <li>
-      <a href="#{{ year.name }}">
-        <strong>{{ year.name }}</strong> <span class="taxonomy__count">{{ year.items | size }}</span>
-      </a>
-    </li>
-  {% endfor %}
-</ul>
+{% assign postsInYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+{% for year in postsInYear %}
+<a href="#{{ year.name }}">
+<strong>{{ year.name }}</strong>     <Strong>{{ year.items | size }}</Strong>
+</a>
+{% endfor %}
+
 
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
