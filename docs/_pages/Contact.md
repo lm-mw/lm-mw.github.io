@@ -15,18 +15,18 @@ author_profile: false
 </head>
 
 <div class="myDiv">
-<h3>For Professional Inquiries:</h3>
+<B>For Professional Inquiries:</B>
 <BR>
 Please contact me <a href="mailto:logan.m.wright1@gmail.com">here</a> with the details of
 your request.
 <BR>
 <BR>
-<h3>For Personal Inquiries:</h3>
+<B>For Personal Inquiries:</B>
 <BR>
 Please contact me <a href="mailto:lw149209@ohio.edu">here</a>.
 <BR>
 <BR>
-<h3>Follow me:</h3>
+<B>Follow me:</B>
 <ul style="list-style-type:none;margin:0;padding:0;">
 <li>
   <a href="https://instagram.com/loganmorrowwright" itemprop="sameAs" rel="nofollow noopener noreferrer">
