@@ -15,9 +15,6 @@ author_profile: false
 </head>
 
 <div class="myDiv">
-<h3>If you need to get into contact with me...</h3>
-<P>Though I appreciate every attempt to get into contact with me, sometimes life has a way of
-getting in the way of my response back to you.  Please allow me 7-10 days to reach back out.</P>
 <B>For Professional Inquiries:</B>
 <BR>
 Please contact me <a href="mailto:logan.m.wright1@gmail.com">here</a> with the details of
