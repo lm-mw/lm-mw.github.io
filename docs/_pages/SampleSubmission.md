@@ -63,10 +63,12 @@ author_profile: false
   <option style = "color:black" value="Other">Other</option>
 </select>
 <BR>
-<textarea name="comment">If applicable, enter any comments here...</textarea>
+<BR>
+<textarea name="comment">If applicable, enter any comments related to the file here...</textarea>
 <BR>
 <input id="attestcb" type="checkbox" style="float: left; margin-top: 5px;>">
 An officer of the administrator has attested that, to the best of his or her knowledge and belief, the data provided with this submission is a financially accurate representation of activity in the specified period.
+<BR>
 <BR>
 <label for="myfile">Select a file:</label>
 <input type="file" id="UploadedFile" name="UploadedFile">
