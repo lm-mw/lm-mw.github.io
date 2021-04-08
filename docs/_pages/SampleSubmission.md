@@ -19,6 +19,10 @@ author_profile: false
 <div class="myDiv">
 <Center><H3><u> SR Data Submission </u></H3></Center>
 
+<label for="myfile">Select a file:</label>
+<input type="file" id="UploadedFile" name="UploadedFile">
+<BR>
+<BR>
 <label for="ReportingMonth">Reporting Period Month:</label>
 <select name="ReportingMonth" id="ReportingMonth">
   <option value="Please Select">Please Select</option>
@@ -65,11 +69,6 @@ author_profile: false
 <BR>
 <BR>
 <textarea name="comment">If applicable, enter any comments related to the file here...</textarea>
-<BR>
-<BR>
-<label for="myfile">Select a file:</label>
-<input type="file" id="UploadedFile" name="UploadedFile">
-<BR>
 <BR>
 By clicking submit, you are confirming that an officer of the administrator has attested that, to the best of his or her knowledge and belief, the data provided with this submission is a financially accurate representation of activity that occurred in the specified period.
 <BR>
