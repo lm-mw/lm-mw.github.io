@@ -42,8 +42,8 @@ Welcome to the SR Data submission page.  This location is where you will upload 
   <option style = "color:black" value="December">December</option>
 </select>
 
-<label style = "color:black" for="ReportingYear">Reporting Period Year:</label>
-<select name="ReportingYear" id="ReportingYear">
+<label for="ReportingYear">Reporting Period Year:</label>
+<select style = "color:black" name="ReportingYear" id="ReportingYear">
   <option value="Please Select">Please Select</option>
   <option style = "color:black" value="2021">2021</option>
   <option style = "color:black" value="2022">2022</option>
