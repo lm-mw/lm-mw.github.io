@@ -60,7 +60,7 @@ Welcome to the SR Data submission page.  This location is where you will upload 
 </select>
 
 <label for="FileType">FileType:</label>
-<select name="FileType" id="FileType">
+<select style = "color:black" name="FileType" id="FileType">
   <option value="Please Select">Please Select</option>
   <option style = "color:black" value="Premium Details">Premium Details</option>
   <option style = "color:black" value="Claim Details">Claim Details</option>
