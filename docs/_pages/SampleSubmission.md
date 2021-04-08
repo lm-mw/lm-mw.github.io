@@ -64,7 +64,7 @@ author_profile: false
 
 <input id="attestcb" type="checkbox" style="float: left; margin-top: 5px;>">
 <div style="margin-left: 25px;">
-     I confirm that the data submitted has gone through all necessary internal financial approvals and that it is an accurate representation of the activity in the specified period.
+An officer of the administrator has attested that, to the best of his or her knowledge and belief, the data provided with this submission is a financially accurate representation of activity in the specified period.
 </div>
 
 </div>
