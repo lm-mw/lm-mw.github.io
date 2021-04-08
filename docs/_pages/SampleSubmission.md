@@ -66,8 +66,6 @@ author_profile: false
 <textarea name="comment">If applicable, enter any comments here...</textarea>
 <BR>
 <input id="attestcb" type="checkbox" style="float: left; margin-top: 5px;>">
-<div style="margin-left: 25px;">
 An officer of the administrator has attested that, to the best of his or her knowledge and belief, the data provided with this submission is a financially accurate representation of activity in the specified period.
-</div>
 
 </div>
