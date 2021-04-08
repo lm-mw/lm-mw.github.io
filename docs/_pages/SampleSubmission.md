@@ -67,5 +67,8 @@ author_profile: false
 <BR>
 <input id="attestcb" type="checkbox" style="float: left; margin-top: 5px;>">
 An officer of the administrator has attested that, to the best of his or her knowledge and belief, the data provided with this submission is a financially accurate representation of activity in the specified period.
+<BR>
+<label for="myfile">Select a file:</label>
+<input type="file" id="UploadedFile" name="UploadedFile">
 
 </div>
