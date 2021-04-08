@@ -69,7 +69,7 @@ author_profile: false
 <BR>
 <textarea name="comment">If applicable, enter any comments related to the file here...</textarea>
 <BR>
-<i><b>By clicking submit, you are confirming that an officer of the administrator has attested that, to the best of his or her knowledge and belief, the data provided with this submission is a financially accurate representation of activity that occurred in the specified period.</b></i>
+<i><b>By clicking submit you are confirming that an officer of the administrator has attested that, to the best of his or her knowledge and belief, the data provided with this submission is a financially accurate representation of activity that occurred in the specified period.</b></i>
 <BR>
 <BR>
 <input type="submit" value="Submit">
