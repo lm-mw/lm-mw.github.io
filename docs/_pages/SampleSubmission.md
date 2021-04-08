@@ -21,6 +21,7 @@ author_profile: false
 <BR>
 Welcome to the SR Data submission page.  This location is where you will upload data to AmTrust each month.  If you have questions about how to complete the questions presented on this screen, please contact an AmTrust representative <a href="mailto:logan.wright@amtrustgroup.com">here</a>
 <BR>
+<BR>
 <label for="myfile">Select a file:</label>
 <input type="file" id="UploadedFile" name="UploadedFile">
 <BR>
