@@ -21,6 +21,7 @@ author_profile: false
 
 <label for="ReportingMonth">Reporting Period Month:</label>
 <select name="ReportingMonth" id="ReportingMonth">
+  <option value="Please Select">Please Select</option>
   <option style = "color:black" value="January">January</option>
   <option style = "color:black" value="February">February</option>
   <option style = "color:black" value="March">March</option>
@@ -37,6 +38,7 @@ author_profile: false
 
 <label for="ReportingYear">Reporting Period Year:</label>
 <select name="ReportingYear" id="ReportingYear">
+  <option value="Please Select">Please Select</option>
   <option style = "color:black" value="2021">2021</option>
   <option style = "color:black" value="2022">2022</option>
   <option style = "color:black" value="2023">2023</option>
@@ -53,6 +55,7 @@ author_profile: false
 
 <label for="FileType">FileType:</label>
 <select name="FileType" id="FileType">
+  <option value="Please Select">Please Select</option>
   <option style = "color:black" value="Premium Details">Premium Details</option>
   <option style = "color:black" value="Claim Details">Claim Details</option>
   <option style = "color:black" value="Premium Controls">Premium Controls</option>
