@@ -19,10 +19,8 @@ author_profile: false
 <div class="myDiv">
 <Center><H3><u> SR Data Submission </u></H3></Center>
 
-<label for="ReportingMonth">Reporting Period Month:</label>
-
-<select name="ReportingMonth" id="ReportingMonth">
-  <option value="January">January</option>
+<label for="ReportingMonth">Reporting Period Month:</label><select name="ReportingMonth" id="ReportingMonth">
+  <option stle = "color:black" value="January">January</option>
   <option value="February">February</option>
   <option value="March">March</option>
   <option value="April">April</option>
