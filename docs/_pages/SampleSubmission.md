@@ -67,7 +67,7 @@ author_profile: false
 </select>
 <BR>
 <BR>
-<textarea name="comment">If applicable, enter any comments related to the file here...</textarea>
+<textarea style= "color:black; background-color:white" name="comment">If applicable, enter any comments related to the file here...</textarea>
 <BR>
 <i><b>By clicking submit you are confirming that an officer of the administrator has attested that, to the best of his or her knowledge and belief, the data provided with this submission is a financially accurate representation of activity that occurred in the specified period.</b></i>
 <BR>
