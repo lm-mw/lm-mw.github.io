@@ -17,7 +17,7 @@ author_profile: false
 </head>
 
 <div class="myDiv">
-<Center><H3><u> SR Data Submission </u></H3></Center>
+<Center><H3><u> Data Submission </u></H3></Center>
 <BR>
 Welcome to the data submission page.  This location is where you will upload data each month.  If you have questions about how to complete the questions presented on this screen, please contact a representative <a href="mailto:logan.m.wright1@gmail.com">here</a>
 <BR>
