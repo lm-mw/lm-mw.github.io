@@ -19,7 +19,7 @@ author_profile: false
 <div class="myDiv">
 <Center><H3><u> SR Data Submission </u></H3></Center>
 <BR>
-Welcome to the SR Data submission page.  This location is where you will upload data to AmTrust each month.  If you have questions about how to complete the questions presented on this screen, please contact an AmTrust representative <a href="mailto:logan.wright@amtrustgroup.com">here</a>
+Welcome to the data submission page.  This location is where you will upload data each month.  If you have questions about how to complete the questions presented on this screen, please contact a representative <a href="mailto:logan.m.wright1@gmail.com">here</a>
 <BR>
 <BR>
 <label for="myfile">Select a file:</label>
