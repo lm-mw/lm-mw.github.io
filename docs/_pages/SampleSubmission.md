@@ -26,7 +26,7 @@ Welcome to the data submission page.  This location is where you will upload dat
 <input type="file" id="UploadedFile" name="UploadedFile">
 <BR>
 <label for="ReportingMonth">Reporting Period Month:</label>
-<select name="ReportingMonth" id="ReportingMonth">
+<select style = "color:black" name="ReportingMonth" id="ReportingMonth">
   <option value="Please Select">Please Select</option>
   <option style = "color:black" value="January">January</option>
   <option style = "color:black" value="February">February</option>
